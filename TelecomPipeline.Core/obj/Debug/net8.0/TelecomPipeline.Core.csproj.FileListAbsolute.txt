@@ -1,0 +1,11 @@
+C:\Users\daniy\OneDrive\Рабочий стол\IFP\TelecomPipeline.Core\bin\Debug\net8.0\TelecomPipeline.Core.deps.json
+C:\Users\daniy\OneDrive\Рабочий стол\IFP\TelecomPipeline.Core\bin\Debug\net8.0\TelecomPipeline.Core.dll
+C:\Users\daniy\OneDrive\Рабочий стол\IFP\TelecomPipeline.Core\bin\Debug\net8.0\TelecomPipeline.Core.pdb
+C:\Users\daniy\OneDrive\Рабочий стол\IFP\TelecomPipeline.Core\obj\Debug\net8.0\TelecomPipeline.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniy\OneDrive\Рабочий стол\IFP\TelecomPipeline.Core\obj\Debug\net8.0\TelecomPipeline.Core.AssemblyInfoInputs.cache
+C:\Users\daniy\OneDrive\Рабочий стол\IFP\TelecomPipeline.Core\obj\Debug\net8.0\TelecomPipeline.Core.AssemblyInfo.cs
+C:\Users\daniy\OneDrive\Рабочий стол\IFP\TelecomPipeline.Core\obj\Debug\net8.0\TelecomPipeline.Core.csproj.CoreCompileInputs.cache
+C:\Users\daniy\OneDrive\Рабочий стол\IFP\TelecomPipeline.Core\obj\Debug\net8.0\TelecomPipeline.Core.dll
+C:\Users\daniy\OneDrive\Рабочий стол\IFP\TelecomPipeline.Core\obj\Debug\net8.0\refint\TelecomPipeline.Core.dll
+C:\Users\daniy\OneDrive\Рабочий стол\IFP\TelecomPipeline.Core\obj\Debug\net8.0\TelecomPipeline.Core.pdb
+C:\Users\daniy\OneDrive\Рабочий стол\IFP\TelecomPipeline.Core\obj\Debug\net8.0\ref\TelecomPipeline.Core.dll
